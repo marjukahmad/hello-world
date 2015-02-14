@@ -6,7 +6,7 @@ body {
 
 section {
     margin: auto;
-    background: url(http://www.connectpositronic.com/blog/wp-content/uploads/2013/06/space.jpg);
+    background: #fff;
     background-size:550px;
     width: 700px;
     height: 500px;
@@ -24,7 +24,7 @@ h1 {
     left: 400px;
 }
 
-h2 {
+p {
     font-size: 36px;
     position: absolute;
     margin: 0;
