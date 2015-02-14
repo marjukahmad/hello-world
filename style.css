@@ -15,14 +15,17 @@ section {
     position: relative;
 }
 
-h1 {
+h3 {
     /* Any styles here just affect your "<h1>" tags. */
     font-size: 48px;
     position: absolute;
     margin: 0;
     top: 300px;
     left: 400px;
+    color: black;
 }
+
+
 
 p {
     font-size: 36px;
