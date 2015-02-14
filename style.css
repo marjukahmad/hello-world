@@ -1,12 +1,11 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans);
 
 body {
-    background: darkslategray;
+    background: url(https://hemmingplay.files.wordpress.com/2014/10/great-pulteney-street-at-night.png);
 }
 
 section {
     margin: auto;
-    background: url(http://www.connectpositronic.com/blog/wp-content/uploads/2013/06/space.jpg);
     background-size:550px;
     width: 700px;
     height: 800px;
