@@ -6,7 +6,7 @@ body {
 
 section {
     margin: auto;
-    background: url(http://images4.fanpop.com/image/photos/18900000/A-Beautiful-Night-winter-18926115-1600-1067.jpg);
+    background: url("http://images4.fanpop.com/image/photos/18900000/A-Beautiful-Night-winter-18926115-1600-1067.jpg");
     background-size:550px;
     width: 700px;
     height: 500px;
