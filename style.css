@@ -15,12 +15,18 @@ section {
     position: relative;
 }
 
+p { font-size: 25px;
+top: 70px;
+left: 100px;
+position: relative;
+line-height: 1.5;
+font-family: Times;
 
 
 
 
 img {
     position: absolute;
-    top: 100px;
-    left: 59px;
+    top: 450px;
+    left: 170px;
 }
