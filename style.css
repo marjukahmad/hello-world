@@ -16,7 +16,7 @@ section {
 }
 
 p { font-size: 25px;
-top: 3vh;
+top: 4vh;
 left: 3vw;
 position: relative;
 line-height: 1.5;
@@ -27,6 +27,6 @@ font-family: Times;
 
 img {
     position: absolute;
-    top: 10vh;
-    left: 10vw;
+    top: 6vh;
+    left: 6vw;
 }
