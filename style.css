@@ -10,7 +10,7 @@ section {
     background-size:550px;
     width: 700px;
     height: 800px;
-    color: black;
+    color: white;
     font-family: 'Open Sans';
     position: relative;
 }
@@ -21,7 +21,7 @@ h3 {
     font-size: 36px;
     position: absolute;
     margin: 0;
-    color: black;
+    color: white;
 }
 
 img {
