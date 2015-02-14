@@ -1,29 +1,36 @@
-<!doctype html>
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Happy Holidays!</title>
+        <link rel="stylesheet" href="style.css" type="text/css">
+        <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script><script src="http://cacpg.herokuapp.com/js/demos/snowfall.min.js"></script>
+<script>
+$(document).ready(function() {
+    snowFall.snow($("section"), {
+        minSize: 1,
+        maxSize: 8,
+        round: true,
+        minSpeed: 1,
+        maxSpeed: 3,
+        flakeCount: 120
+    });
+});
+</script>
+    </head>
+    <body>
+    
+    <!-- Add your heading below this line -->
+    <section><h3>Dear Fahmia Rashid,</h3>
+    <p> It's been snowing here madly. And It's beautiful.</p>
+    <p> Best,</p> 
+    <p> Marjuk</p>
+    
 
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-
-  <title> Germany World Cup Win 2014</title>
-  <meta name="description" content="Title">
-  <meta name="author" content="Mike Kenyon">
-
-  <link rel="stylesheet" href="style.css">
-
-  <!--[if lt IE 9]>
-  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-  <![endif]-->
-</head>
-
-<body>
-    <div id="resolutions">
-        <h1>Germany Won the Worldcup 2014</h1>
-        <p>congrats from an awesome argentine fan!</p>
-    </div>
-    <div id="mountains2"></div>
-    <div id="mountains1"></div>
-    <div id="skyline"></div>
-  <canvas id="canvas"></canvas>
-  <script src="script.js"></script>
-</body>
+    
+    <img src="https://codecademy-content.s3.amazonaws.com/courses/web-beginner-en-9xjis/images/snowman.png">
+    
+    </section>
+    <!-- I'm a comment! You won't see me on the page! -->
+    
+    </body>
 </html>
